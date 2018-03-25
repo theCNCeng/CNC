@@ -1,2 +1,2 @@
 # CNC
-test repository for learning gihub ins and outs
+test repository for learning GitHub ins and outs
